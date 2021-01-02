@@ -1,0 +1,153 @@
+body{
+	font-size:16px;
+	color: white;
+	background-color:#61122F;
+	font-family:'Oxygen',Sans-serif;
+}
+
+header{
+	border-top:10px solid black;
+	background-color:#FF8C00;
+	display: flex;
+	justify-content:space-between;
+	border:10px solid black;
+}
+
+h2{
+	color: white;
+}
+
+.panel-footer{
+	background-color:#222;
+	border:10px solid black;
+}
+
+header .container{
+	display:flex; 	
+}
+
+.navbar-nav{
+	display:flex;
+	margin-left:500px;
+	position:relative;
+}
+
+div.jumbotron{
+	background-image: linear-gradient(#61122F, #61122F);
+	margin-bottom: 0;
+}
+
+.jumbotron .container{
+	background-image:url("res.jpg");
+	height:300px;
+}
+
+.jumbotron .row{
+	display:flex;
+    padding-left: 60px;	
+	background-color:#61122F;	
+}
+
+.jumbotron .row1{
+	display:flex;
+	background-color:#61122F;
+    margin-left:40px;
+    margin-right:40px;	
+	align-items:center;
+	color:white;
+	font-weight:bold;
+	font-size: 20px;
+	border:5px solid black;
+}
+
+.jumbotron span{
+	position:relative;
+	background-color:black;
+	opacity:0.8;
+	width:100%;
+	padding-left:115px;
+} 
+
+.jumbotron .row div{
+	display: flex;
+	margin-top:20px;
+	
+}
+
+.jumbotron div.row{
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.jumbotron .row .picture{
+	width:50%;
+	float: left;
+	margin-top: 0;
+}
+
+.jumbotron .row .writeup{
+	display: block;
+	width:50%;
+	margin-left:20px;
+	color: white;
+}
+
+.panel-footer .container .row{
+	display: flex;
+	background-color:#222;
+	justify-content: space-around;
+	color:white;
+	font-size:16px;	
+	padding-top: 10px;
+	text-align: center;
+}
+
+.panel-footer .container .row span{
+	font-size:20px;	
+}
+
+#logo{
+	height:100px;
+	width:200px;
+	padding-right:20px;
+}
+
+#name{
+	font-size: 35px;
+}
+
+#img_back{
+	height:300px;
+	width:640px;	
+}
+
+
+Dear Dr. Tsai,
+
+I hope all is well and safe.
+I wanted to inform you regarding the arcmapping work. I have followed up with Zhongyu and was able to 
+work on a minor modification of the Smart-CIE application (curve-finder tool). I ask for forgiveness 
+for not having communicated earlier.
+
+I would be very grateful if you could let me know of a convenient time to speak to you.
+
+Thank you.
+Sincerely,
+Akshata Desai.
+
+
+I am still in the process of job search. Due to personal financial reasons, I am seeking a full-time job. 
+I would be grateful to stay in touch.  I am 
+very thankful for all the opportunities and knowledge that I have gained under your guidance. 
+
+Sincerely,
+Akshata Desai.
+
+
+I have a few queries:
+
+- I would like to know if this work is purely based on software development? Will I be working on other aspects of      design automation? I would like to know more.
+
+- What can I expect in terms of entry level work for the virtuoso platform?
+
+- In terms of the hiring process, what can I expect to be tested on specifically?

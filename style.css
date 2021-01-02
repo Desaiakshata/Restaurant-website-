@@ -1,0 +1,123 @@
+body
+{
+	font-size:16px;
+	color: white;
+	background-color:#61122F;
+	font-family:'Oxygen',Sans-serif;
+}
+
+header{
+	border-top:10px solid black;
+	background-color:#FF8C00;
+	display: flex;
+	justify-content:space-between;
+	border:10px solid black;
+}
+
+.panel-footer{
+	background-color:#222;
+	border:10px solid black;
+}
+
+header .container{
+	display:flex; 	
+}
+
+.navbar-nav{
+	display:flex;
+	margin-left:500px;
+	position:relative;
+}
+
+div.jumbotron{
+	background-image: linear-gradient(#61122F, #61122F);
+	margin-bottom: 0;
+}
+
+.jumbotron .container{
+	background-image:url("res.jpg");
+	height:300px;
+}
+
+.jumbotron .row{
+	display:flex;
+	padding-top: 60px;
+    padding-left: 60px;	
+	background-color:#61122F;
+	
+}
+
+.jumbotron .row1{
+	display:flex;
+	height:200px;
+	width:400px;
+	background-color:#61122F;
+    margin-left:40px;
+    margin-right:40px;	
+	margin-top:30px;
+	align-items:flex-end;
+	color:white;
+	font-weight:bold;
+	font-size: 20px;
+	border:10px solid black;
+}
+
+.jumbotron .row1:hover{ 
+	border:1px solid black;	
+}
+
+.jumbotron span{
+	position:relative;
+	background-color:black;
+	opacity:0.8;
+	width:100%;
+	padding-left:115px;
+} 
+
+.panel-footer .container .row{
+	display: flex;
+	background-color:#222;
+	justify-content: space-around;
+	color:white;
+	font-size:16px;	
+	padding-top: 10px;
+	text-align: center;
+}
+
+.panel-footer .container .row span{
+	font-size:20px;
+	
+}
+
+#logo{
+	height:100px;
+	width:200px;
+	padding-right:20px;
+}
+
+#name{
+	font-size: 35px;
+}
+
+#img_back{
+	height:300px;
+	width:640px;	
+}
+
+#food{
+	background-image:url("food.jpg");
+	height:200px;
+	width:300px;
+}
+
+#special{
+	background-image:url("special.jpg");
+	height:200px;
+	width:300px;
+}
+
+#map{
+	background-image:url("map.jpg");
+	height:200px;
+	width:300px;
+}
